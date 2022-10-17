@@ -7,6 +7,8 @@ numbers of small squares. You should see a black canvas with buttons and a
 label at the bottom. Pressing the buttons adds small colored squares to the
 canvas.
 
+test
+
 '''
 
 from kivy.uix.button import Button
